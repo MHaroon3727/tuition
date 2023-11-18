@@ -28,7 +28,7 @@ function Center() {
 
           <div className='right-div'>
               
-              <img src="/images/client.png" alt='picture'/>
+              <img src="./images/client.png" alt='picture'/>
 
           </div>
           

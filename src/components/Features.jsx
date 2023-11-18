@@ -21,7 +21,7 @@ const Features = () => {
     <div className="Featuresimg">
      
       <div className="Features-img">
-      <img src="/images/Features.png" alt='picture'/>
+      <img src="./images/Features.png" alt='picture'/>
                 
       
       </div>

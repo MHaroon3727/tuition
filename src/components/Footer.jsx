@@ -6,7 +6,7 @@ function Footer() {
     <div className="main-footer">
         <div className="footer-left">
             
-            <img src="/images/logo.png" alt="Logo" />
+            <img src="./images/logo.png" alt="Logo" />
            
             <div className='footer-content'>
             <h1>Helping ambitious learners upskill themselves & shift to top product based companies</h1>

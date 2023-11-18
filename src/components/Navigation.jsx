@@ -11,7 +11,7 @@ function Navigation() {
       </i>
     </label>
     <label className="logo">
-      <img src="/images/logo.png" alt="Logo" />
+      <img src="./images/logo.png" alt="Logo" />
     </label>
       <ul>
        <li>< a  href="#program">Programs</a> </li>
