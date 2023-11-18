@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tuition/static/css/main.b7b1405e.css",
-    "main.js": "/tuition/static/js/main.25663d3d.js",
+    "main.js": "/tuition/static/js/main.cdc9fc92.js",
     "static/js/787.ed93ab44.chunk.js": "/tuition/static/js/787.ed93ab44.chunk.js",
     "index.html": "/tuition/index.html",
     "main.b7b1405e.css.map": "/tuition/static/css/main.b7b1405e.css.map",
-    "main.25663d3d.js.map": "/tuition/static/js/main.25663d3d.js.map",
+    "main.cdc9fc92.js.map": "/tuition/static/js/main.cdc9fc92.js.map",
     "787.ed93ab44.chunk.js.map": "/tuition/static/js/787.ed93ab44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7b1405e.css",
-    "static/js/main.25663d3d.js"
+    "static/js/main.cdc9fc92.js"
   ]
 }
